@@ -70,18 +70,18 @@
 
 <p align="left">
   <a href="https://github.com/armondjose">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armondjose&layout=compact" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armondjose&layout=compact&theme=dark&cache_seconds=86400" height="180px"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/armondjose">
-    <img src="https://github-readme-stats.vercel.app/api?username=armondjose&show_icons=true" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=armondjose&show_icons=true&theme=dark&cache_seconds=86400" height="180px"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/armondjose">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=armondjose" height="180px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=armondjose&theme=dark" height="180px"/>
   </a>
 </p>
