@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armondjose" alt="armondjose" /></a> </p>
 
-- 🔭 I’m currently working on [AI Enhanced Pulbic Monitoring System](https://github.com/armond-jose/AI-Enhanced-Public-Monitoring-System)
+- 🔭 I’m currently working on [AI Enhanced Pulbic Monitoring System](https://github.com/armondjose/AI-Enhanced-Public-Monitoring-System)
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/armond-jose/Resume](https://github.com/armond-jose/Resume)
+- 👨‍💻 All of my projects are available at [https://github.com/armondjose/Resume](https://github.com/armondjose/Resume)
 
 - 📫 How to reach me **armondjose44@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/armond-jose/Resume](https://github.com/armond-jose/Resume)
+- 📄 Know about my experiences [https://github.com/armondjose/Resume](https://github.com/armondjose/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armondjose&show_icons=true&locale=en&layout=compact" alt="armondjose" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armondjose&show_icons=true&locale=en" alt="armondjose" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armondjose&" alt="armondjose" /></p>
