@@ -66,22 +66,25 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h2>📊 GitHub Stats</h2>
 
-<p align="left">
-  <a href="https://github.com/armondjose">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armondjose&layout=compact&theme=dark&cache_seconds=86400" height="180px"/>
-  </a>
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armondjose&theme=github_dark" alt="Profile Details" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/armondjose">
-    <img src="https://github-readme-stats.vercel.app/api?username=armondjose&show_icons=true&theme=dark&cache_seconds=86400" height="180px"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armondjose&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armondjose&theme=github_dark" alt="Most Commit Language" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/armondjose">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=armondjose&theme=dark" height="180px"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=armondjose&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=armondjose&theme=github_dark" alt="Commits" />
 </p>
+
+<!-- GitHub Streak (Very stable) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=armondjose&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
